@@ -1,0 +1,6 @@
+name,ring,quadrant,isNew,description
+SAP ERP,Hold,Platforms,TRUE,Current E&M ERP
+PeopleSoft,Hold,Platforms,TRUE,Current ERP HCM and Finance
+Workday,,Platforms,TRUE,Onboarding and Organisational
+SAP BTP,Asses,Platforms,TRUE,SAP Business Technology Platform
+SAP DIC,Trial,Tools,TRUE,SAP Data Intelligence Cloud
